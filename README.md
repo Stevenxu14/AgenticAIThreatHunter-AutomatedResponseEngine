@@ -495,7 +495,7 @@ def sanitize_query_context(query_context):
 ```python
 # API Key & Log Analytics Workspace ID Configuration
 OPENAI_API_KEY = "YOUR-OPENAI-API-KEY"
-LOG_ANALYTICS_WORKSPACE_ID = "60c7f53e-249a-4077-b68e-55a4ae877d7c"
+LOG_ANALYTICS_WORKSPACE_ID = "XXXXXXXXXXX"
 
 ```
 
