@@ -1,1 +1,1 @@
-# AgenticAIThreatHunter-AutomatedResponseEngine
+# AgenticAIThreatHunterAutomatedResponseEngine
